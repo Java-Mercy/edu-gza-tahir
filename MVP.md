@@ -1,7 +1,9 @@
-# Gaza Story Learning App — Final MVP
+# Gaza Story Learning App - MVP 
 
-> **Narration**  
-> This Minimum Viable Product is an offline-first mobile app that delivers short, culturally-rooted audio stories (seeded and LLM-assisted) followed by mini-quizzes and simple story-driven decision games. Content spreads via peer-to-peer (P2P) transfers so children and families in connectivity-constrained areas can exchange learning resources. The MVP’s goal is to validate whether story-driven, local-LLM-assisted learning plus P2P distribution improves vocabulary and basic problem-solving understanding for children (ages 5–14).
+
+This Minimum Viable Product is an offline-first mobile app that delivers short, culturally-rooted audio stories (seeded and LLM-assisted) followed by mini-quizzes and simple story-driven decision games. Content spreads via peer-to-peer (P2P) transfers so children and families in connectivity-constrained areas can exchange learning resources. The MVP’s goal is to validate whether story-driven, local-LLM-assisted learning plus P2P distribution improves vocabulary and basic problem-solving understanding for children (ages 5–14).
+
+
 
 # Goal
 Deliver the smallest, testable product that:  
